@@ -1,0 +1,1 @@
+web: java -jar -D spring.profile.active build/libs/capgemini-market-1.0.jar
